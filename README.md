@@ -1,2 +1,4 @@
 # Inmobiliaria_Tarditto
-Pagina para una inmobiliaria de Rivadavia, Mendoza, Argentina
+Proyecto académico de mi carrera Desarrollo de Software.
+Desarrollamos esta pagina web que corresponde a una inmobiliaria que reside en Rivadavia, Mendoza, Argentina.
+
